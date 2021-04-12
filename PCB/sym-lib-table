@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name nixie_clock-rescue)(type Legacy)(uri ${KIPRJMOD}/nixie_clock-rescue.lib)(options "")(descr ""))
+  (lib (name logo_kicad)(type Legacy)(uri C:/Users/nentv/ownCloud4/Electronics/KiCad_libraries/kicad-library/library/logo_kicad.lib)(options "")(descr ""))
+)
